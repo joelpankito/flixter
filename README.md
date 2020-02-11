@@ -58,8 +58,6 @@ $ rails server -b 0.0.0.0 -p 3000
 
 * [Simple_form](https://github.com/heartcombo/simple_form) - building forms
 
-* [FactoryGirl](https://github.com/thoughtbot/factory_bot) - test robot
-
 * [Stripe](https://stripe.com/) - Online payment processing
 
 * [AWS Integration](https://aws.amazon.com/) - cloud storage
